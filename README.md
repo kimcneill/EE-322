@@ -14,4 +14,4 @@
 `code`
 ---
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-[The Markddown Guide](https://www.markdownguide.org/assets/images/generated/assets/images/book-cover-1080.webp)
+![The Markddown Guide](https://www.markdownguide.org/assets/images/generated/assets/images/book-cover-1080.webp)
